@@ -6,4 +6,4 @@ Code Snippets in tensorflow 2.0 from the [Deep Reinforcement Learning in Action]
 The code snippets, listings and projects are all interactive python books in visual studio code.
 
 ## Requirements
-In orde to run many of the projects, you'll need at least the [NumPy](http://www.numpy.org/) library and tensorflow 2.X(https://www.tensorflow.org/).
+In order to run many of the projects, you'll need at least the [NumPy](http://www.numpy.org/) library and [tensorflow 2](https://www.tensorflow.org/).
